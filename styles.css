@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+* {
+    font-family: "Nunito", sans-serif;
+}
+
+.btn {
+    margin: 12px;
+}
+
+.heading {
+    margin-bottom: 4px;
+}
+
+.sub-heading {
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+body {
+    background-image: url("coffee.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.center {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.label {
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    color: whitesmoke;
+}
+
+#list {
+    color: whitesmoke;
+}
+
+h3 {
+    color: lightgray;
+}
+
+h1 {
+    color: whitesmoke;
+    font-weight: 400;
+
+}
